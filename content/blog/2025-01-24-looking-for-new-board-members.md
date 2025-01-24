@@ -10,9 +10,12 @@ We stage an annual Book Sale. We’re the umbrella organization for volunteers w
 
 Anyone interested in building community in Hillsdale is welcome to apply to be on our board. We strive to have our board reflect all aspects of our community because we understand the richness and depth diversity brings to our community. We value ideas from adults of all ages and socioeconomic groups, from the BIMPOC and LGBTQ communities, from people whose focus is on children, and from people of different religious beliefs. If you are part of any underrepresented community, we would particularly welcome you. Join us with your ideas and passion for Hillsdale. We look forward to working alongside you to bring those ideas to life.
 
-> If you'd like to talk to us, email [info@hillsdalecommunityfoundation.org](mailto:info@hillsdalecommunityfoundation.org)
+> If you'd like to talk to us:
 > 
-> or fill out a [new board member application](https://docs.google.com/forms/d/e/1FAIpQLSfX87YQQkqLrkDDS96VWm1ymrFVOmr-bGxl4YtssRLcSvfRTA/viewform?pli=1)
+> *   email [info@hillsdalecommunityfoundation.org](mailto:info@hillsdalecommunityfoundation.org)
+>     
+> *   or fill out a [new board member application](https://docs.google.com/forms/d/e/1FAIpQLSfX87YQQkqLrkDDS96VWm1ymrFVOmr-bGxl4YtssRLcSvfRTA/viewform?pli=1)
+>     
 
 ## **Board of Directors**
 
@@ -40,4 +43,4 @@ By-laws and member responsibilities can be found below.
 *   Amy Houchen
     
 
-\[By-Laws\]([https://docs.google.com/document/d/1qm6Ob5Foobmgdt9ZLyBLFBnJei1zT13ArqaV1mCcsTk](https://docs.google.com/document/d/1qm6Ob5Foobmgdt9ZLyBLFBnJei1zT13ArqaV1mCcsTk)) • \[Board Member Responsibilities\]([https://docs.google.com/document/d/18Ye9a1F3POkEuHOtNeLHBRvlH7qrxS\_dw57iRy9FYuU](https://docs.google.com/document/d/18Ye9a1F3POkEuHOtNeLHBRvlH7qrxS_dw57iRy9FYuU))
+\[[By-Laws](https://docs.google.com/document/d/1qm6Ob5Foobmgdt9ZLyBLFBnJei1zT13ArqaV1mCcsTk)\] • \[[Board Member Responsibilities](https://docs.google.com/document/d/18Ye9a1F3POkEuHOtNeLHBRvlH7qrxS_dw57iRy9FYuU)\]
