@@ -1,6 +1,6 @@
 ---
 key: now
-order: 5
+order: 4
 title: Current Projects and News
 ---
 ## The Usual Suspects - 1st Saturday Community Cleanup
