@@ -1,7 +1,8 @@
 ---
-key: now
-order: 5
-title: Current Projects and News
+layout: layouts/base.njk
+eleventyNavigation:
+  key: home
+  order: 1
 ---
 ## The Usual Suspects - 1st Saturday Community Cleanup
 
