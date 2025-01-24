@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 eleventyNavigation:
   key: About Us
-  order: 3
+  order: 1
 ---
 # About Us
 
@@ -24,6 +24,6 @@ Since 2014 the foundation board has made grants of approximately $5000 annually 
 
 ### Since 2018
 
-In 2018 the foundation changed focus to community building by supporting events that bring people together. 
+In 2018 the foundation changed focus to community building by supporting events that bring people together.
 
 We want you to love Hillsdale as much as we do!
