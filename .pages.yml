@@ -18,7 +18,7 @@ content:
     type: collection
     path: content/pages
     view:
-      fields: [key, order]
+      fields: [key, order, Title]
     fields:
       - { name: key, label: Key, type: string }
       - { name: order, label: Order, type: number }
