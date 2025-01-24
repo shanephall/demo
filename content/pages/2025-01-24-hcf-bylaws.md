@@ -1,10 +1,8 @@
 ---
 key: bylaws
 order: 10
-title: HCF Bylaws
+title: Bylaws of The Hillsdale Community Foundation
 ---
-# BYLAWS OF THE HILLSDALE COMMUNITY FOUNDATION
-
 ## PURPOSE
 
 The purpose of the Hillsdale Community Foundation (HCF) is the betterment of the Hillsdale community and the fostering of a sense of community among Hillsdale’s many diverse groups.
