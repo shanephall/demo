@@ -1,10 +1,8 @@
 ---
 key: board
-order: 6
-title: Board
+order: 8
+title: Looking For New Board Members
 ---
-# Looking For New Board Members
-
 ## Join the Hillsdale Community Foundation
 
 The Hillsdale Community Foundation needs new board members. We are a group of volunteers dedicated to building strong community in Hillsdale by organizing and promoting events that bring people together. We welcome your energy and compassion to help make this happen and your fresh ideas for new events that will make Hillsdale even friendlier. Together we create an accessible, inclusive, and beautiful community for everyone.
@@ -22,15 +20,23 @@ Anyone interested in building community in Hillsdale is welcome to apply to be o
 Foundation board members are chosen by the board from the community and anyone may apply to be on the board. Terms of service are for three years and, with board approval, can be extended for one more three-year term. By-laws call for a board of no less than nine members. Full terms begin and end in January. By-laws and member responsibilities can be found below. ​
 
 *   Dick Hausken, Treasurer - 2020 - 2023
+    
 *   Jessica Kaplan, Chair - 2022 - 2025
+    
 *   Leila Ortega, Secretary - 2022 - 2025
+    
 *   Reena Parekh - 2023 - 2024\* ​
+    
 
 ## Emeritus Members
 
 *   Mike Roach
+    
 *   Rick Seifert
+    
 *   Michael Reunert
+    
 *   Amy Houchen
+    
 
 [By-Laws](https://docs.google.com/document/d/1qm6Ob5Foobmgdt9ZLyBLFBnJei1zT13ArqaV1mCcsTk) • [Board Member Responsibilities](https://docs.google.com/document/d/18Ye9a1F3POkEuHOtNeLHBRvlH7qrxS_dw57iRy9FYuU)
