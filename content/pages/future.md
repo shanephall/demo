@@ -1,6 +1,6 @@
 ---
 key: future
-order: 9
+order: 6
 title: Future Projects
 ---
 Future projects will continue to be based on Foundation initiatives.
