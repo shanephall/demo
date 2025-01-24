@@ -1,8 +1,8 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: home
-  order: 1
+  key: Current
+  order: 2
 ---
 ## The Usual Suspects - 1st Saturday Community Cleanup
 

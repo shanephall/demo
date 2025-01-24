@@ -16,6 +16,19 @@ content:
   - name: home
     label: Home page
     type: file
+    path: content/pages/home.md
+    fields:
+      - { name: layout, type: string, hidden: true, default: layouts/base.njk }
+      - name: eleventyNavigation
+        label: Navigation
+        type: object
+        fields:
+          - { name: key, label: Key, type: string }
+          - { name: order, label: Order, type: number }
+      - { name: body, label: Body, type: rich-text }
+  - name: current
+    label: Current page
+    type: file
     path: content/pages/current.md
     fields:
       - { name: layout, type: string, hidden: true, default: layouts/base.njk }
