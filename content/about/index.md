@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: About Us
   order: 3
 ---
-# About Me
+# About Us
 
-I am a person that writes stuff.
+The Hillsdale Community Foundation exists to strengthen community among those who live and work in Hillsdale.
