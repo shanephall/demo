@@ -43,4 +43,4 @@ By-laws and member responsibilities can be found below.
 *   Amy Houchen
     
 
-\[[By-Laws](https://docs.google.com/document/d/1qm6Ob5Foobmgdt9ZLyBLFBnJei1zT13ArqaV1mCcsTk)\] • \[[Board Member Responsibilities](https://docs.google.com/document/d/18Ye9a1F3POkEuHOtNeLHBRvlH7qrxS_dw57iRy9FYuU)\]
+\[[By-Laws](https://docs.google.com/document/d/1qm6Ob5Foobmgdt9ZLyBLFBnJei1zT13ArqaV1mCcsTk)\] • \[[Board Member Responsibilities](https://docs.google.com/document/d/18Ye9a1F3POkEuHOtNeLHBRvlH7qrxS_dw57iRy9FYuU)\] [Bylaws](https://app.pagescms.org/shanephall/demo/content/pages/bylaws.md)
