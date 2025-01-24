@@ -16,7 +16,7 @@ Anyone interested in building community in Hillsdale is welcome to apply to be o
 
 \>
 
-\> or fill out a \[new board member application\]([https://docs.google.com/forms/d/e/1FAIpQLSfX87YQQkqLrkDDS96VWm1ymrFVOmr-bGxl4YtssRLcSvfRTA/viewform?pli=1](https://docs.google.com/forms/d/e/1FAIpQLSfX87YQQkqLrkDDS96VWm1ymrFVOmr-bGxl4YtssRLcSvfRTA/viewform?pli=1))  
+\> or fill out a \[new board member application\]([https://docs.google.com/forms/d/e/1FAIpQLSfX87YQQkqLrkDDS96VWm1ymrFVOmr-bGxl4YtssRLcSvfRTA/viewform?pli=1](https://docs.google.com/forms/d/e/1FAIpQLSfX87YQQkqLrkDDS96VWm1ymrFVOmr-bGxl4YtssRLcSvfRTA/viewform?pli=1))
 
 **\## Board of Directors**
 
@@ -40,6 +40,6 @@ By-laws and member responsibilities can be found below.
 
 \- Michael Reunert
 
-\- Amy Houchen  
+\- Amy Houchen
 
 \[By-Laws\]([https://docs.google.com/document/d/1qm6Ob5Foobmgdt9ZLyBLFBnJei1zT13ArqaV1mCcsTk](https://docs.google.com/document/d/1qm6Ob5Foobmgdt9ZLyBLFBnJei1zT13ArqaV1mCcsTk)) • \[Board Member Responsibilities\]([https://docs.google.com/document/d/18Ye9a1F3POkEuHOtNeLHBRvlH7qrxS\_dw57iRy9FYuU](https://docs.google.com/document/d/18Ye9a1F3POkEuHOtNeLHBRvlH7qrxS_dw57iRy9FYuU))
