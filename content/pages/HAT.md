@@ -1,5 +1,5 @@
 ---
-key: HAT
+key: hat
 order: 7
 title: What is HAT?
 ---
