@@ -1,12 +1,9 @@
 ---
-layout: layouts/base.njk
-eleventyNavigation:
-  key: Future
-  order: 5
+key: future
+order: 9
+title: Future Projects
 ---
-
-# Future Projects
-Future projects will continue to be based on Foundation initiatives. 
+Future projects will continue to be based on Foundation initiatives.
 
 After construction and dedication of the Josh Kadish Community Stage at the Hillsdale Food Park in the summer of 2019, the Events Committee sought acts to perform in 2020. Sadly, because of COVID-19 the 2020 and 2021 season had to be cancelled. We hosted one concert in 2022. We're looking ahead to 2023 and welcome your participation in planning.
 
